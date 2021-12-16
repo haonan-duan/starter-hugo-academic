@@ -40,13 +40,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-|![](yuan.jpg)|姓名：魏怡飞|
-
-
-
-
-
-
-
+![](yuan.jpg "This is yuanyuan")
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
