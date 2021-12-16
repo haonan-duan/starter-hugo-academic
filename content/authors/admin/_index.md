@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<img style="float: right;" src="yuan.jpg"> 姓名：魏怡飞
+<img style="float: left;" src=![](yuan.jpg)> 姓名：魏怡飞
 
 
 
