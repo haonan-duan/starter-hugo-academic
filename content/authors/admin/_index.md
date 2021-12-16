@@ -40,7 +40,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-![](yuan.jpg) This is yuanyuan
+![](yuan.jpg){: style="float: left"} 姓名：魏怡飞  
+
 
 
 
