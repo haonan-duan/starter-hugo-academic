@@ -1,8 +1,7 @@
 ---
 title: 1716的日常
 role: —— by Yifei Wei, Haonan Duan
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-![This is yuanyuan](yuan.jpg)
+![](yuan.jpg) This is yuanyuan
 
 
 
