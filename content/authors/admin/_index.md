@@ -11,17 +11,17 @@ highlight_name: true
 
 <div>
 
-\    <img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg" style="vertical-align:middle;">
+<img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg" style="vertical-align:middle;">
 
-\    <span>魏怡飞</span>
+<span>魏怡飞</span>
 
 </div>
 
 <div>
 
-\    <img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg" style="vertical-align:middle;">
+<img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg" style="vertical-align:middle;">
 
-\    <span>段昊男</span>
+<span>段昊男</span>
 
 </div>
 
