@@ -5,22 +5,22 @@ bio: ""
 superuser: true
 highlight_name: true
 ---
-<div>
+<table>
 
-<img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg" style="vertical-align:middle;">
+<tr>
 
-<span>魏怡飞</span>
+<td><img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg"></td>
 
-</div>
+<td>魏怡飞</td>
 
-<div>
+</tr>
 
-<img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg" style="vertical-align:middle;">
+<tr>
 
-<span>段昊男</span>
+<td>段昊男</td>
 
-</div>
+<td><img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg"></td>
 
-
+</tr>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
