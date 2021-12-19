@@ -17,5 +17,3 @@ design:
     <td><img src="https://s4.ax1x.com/2021/12/19/TZJgpV.jpg"></td>
     <td><img src="https://s4.ax1x.com/2021/12/19/TZJ6f0.jpg"></td>
 </tr></table>
-
-Add any content here - text, images, videos, galleries - and even HTML code!
