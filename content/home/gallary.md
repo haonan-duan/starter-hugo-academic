@@ -12,7 +12,7 @@ design:
     image_darken: ""
 ---
 <center class="half">
-    <img src=![](image1.jpg)/><img src=![](image2.jpg)/><img src=![](image3.jpg)>
+    <img src="https://gitee.com/haonan-duan/image-backup/blob/master/image1.jpg"/><img src="https://gitee.com/haonan-duan/image-backup/blob/master/image2.jpg"/><img src="https://gitee.com/haonan-duan/image-backup/blob/master/image3.jpg">
 </center>
 
 Add any content here - text, images, videos, galleries - and even HTML code!
