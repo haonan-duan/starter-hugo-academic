@@ -23,4 +23,6 @@ highlight_name: true
 
 </tr>
 
+</table>
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
