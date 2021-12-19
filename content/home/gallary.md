@@ -12,8 +12,10 @@ design:
     image: ""
     image_darken: ""
 ---
-<center class="half">
-    <img src="https://s4.ax1x.com/2021/12/19/TZJyYq.jpg"/><img src="https://s4.ax1x.com/2021/12/19/TZJgpV.jpg"/><img src="https://s4.ax1x.com/2021/12/19/TZJ6f0.jpg"/>
-</center>
+<table><tr>
+    <td><img src="https://s4.ax1x.com/2021/12/19/TZJyYq.jpg"></td>
+    <td><img src="https://s4.ax1x.com/2021/12/19/TZJgpV.jpg"></td>
+    <td><img src="https://s4.ax1x.com/2021/12/19/TZJ6f0.jpg"></td>
+</tr></table>
 
 Add any content here - text, images, videos, galleries - and even HTML code!
