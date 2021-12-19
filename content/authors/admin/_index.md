@@ -5,10 +5,6 @@ bio: ""
 superuser: true
 highlight_name: true
 ---
-![]( "This is yuanyuan")
-
-![]()
-
 <div>
 
 <img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg" style="vertical-align:middle;">
