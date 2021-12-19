@@ -2,12 +2,6 @@
 title: 1716的日常
 role: —— by Yifei Wei, Haonan Duan
 bio: ""
-interests: []
-social: []
-organizations: []
-education:
-  courses: []
-email: ""
 superuser: true
 highlight_name: true
 ---
