@@ -9,6 +9,7 @@ design:
   columns: "1"
   background:
     image: image1.jpg
+    image_darken: 0.8
 ---
 
 Add any content here - text, images, videos, galleries - and even HTML code!
