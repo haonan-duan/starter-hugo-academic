@@ -6,7 +6,7 @@ weight: 30
 title: Gallary
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: ""
     image_darken: ""
