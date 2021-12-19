@@ -12,7 +12,7 @@ design:
     image: ""
     image_darken: ""
 ---
-<table><tr>
+<table style="background-color:rgba(0, 0, 0, 0);"><tr>
     <td><img src="https://s4.ax1x.com/2021/12/19/TZJyYq.jpg"></td>
     <td><img src="https://s4.ax1x.com/2021/12/19/TZJgpV.jpg"></td>
     <td><img src="https://s4.ax1x.com/2021/12/19/TZJ6f0.jpg"></td>
