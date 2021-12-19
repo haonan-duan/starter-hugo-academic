@@ -7,7 +7,7 @@ highlight_name: true
 ---
 <div>
 
-<img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg" style="vertical-align:left;"/>
+<img src="https://s4.ax1x.com/2021/12/19/TZaYM6.jpg">
 
 <span>魏怡飞</span>
 
@@ -17,7 +17,7 @@ highlight_name: true
 
 <span>段昊男</span>
 
-<img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg" style="vertical-align:right;"/>
+<img src="https://s4.ax1x.com/2021/12/19/TZatsK.jpg">
 
 </div>
 
