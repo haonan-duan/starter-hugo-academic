@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Gallary
 headless: true
-weight: 10
+weight: 40
 title: Gallary
 subtitle: null
 design:
